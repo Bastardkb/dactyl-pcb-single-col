@@ -387,7 +387,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "single-col.step",
       "vmrl": "",
       "vrml": ""
     },
@@ -424,7 +424,7 @@
   },
   "sheets": [
     [
-      "c27928cc-cba1-430b-acaa-73c8cbb28e38",
+      "52af28ff-687b-4054-a3fd-b1fb3201c4da",
       ""
     ]
   ],
