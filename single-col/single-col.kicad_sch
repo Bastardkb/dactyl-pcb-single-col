@@ -452,7 +452,7 @@
     (uuid 711cbd38-d81d-4a75-9929-66e73f4ffa61)
     (property "Reference" "D1" (id 0) (at 113.03 38.1 0))
     (property "Value" "D" (id 1) (at 113.03 40.64 0))
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 113.03 44.45 0)
+    (property "Footprint" "project_switches:D_SOD-123" (id 2) (at 113.03 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 44.45 0)
@@ -467,7 +467,7 @@
     (uuid 4cf67559-7fd6-4516-b112-8cf21c614315)
     (property "Reference" "D2" (id 0) (at 113.03 52.07 0))
     (property "Value" "D" (id 1) (at 113.03 54.61 0))
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 113.03 58.42 0)
+    (property "Footprint" "project_switches:D_SOD-123" (id 2) (at 113.03 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 58.42 0)
@@ -482,7 +482,7 @@
     (uuid 7b1a91da-5e0a-4ce8-9681-e8f2397e822f)
     (property "Reference" "D3" (id 0) (at 113.03 64.77 0))
     (property "Value" "D" (id 1) (at 113.03 67.31 0))
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 113.03 71.12 0)
+    (property "Footprint" "project_switches:D_SOD-123" (id 2) (at 113.03 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 71.12 0)
@@ -497,7 +497,7 @@
     (uuid e8a10265-ace4-4119-bef8-5bef01da4e99)
     (property "Reference" "D4" (id 0) (at 113.03 78.74 0))
     (property "Value" "D" (id 1) (at 113.03 81.28 0))
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 113.03 85.09 0)
+    (property "Footprint" "project_switches:D_SOD-123" (id 2) (at 113.03 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 85.09 0)
@@ -512,7 +512,7 @@
     (uuid 66b08f3b-38db-4463-a696-36f793332ee4)
     (property "Reference" "D5" (id 0) (at 113.03 91.44 0))
     (property "Value" "D" (id 1) (at 113.03 93.98 0))
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 113.03 97.79 0)
+    (property "Footprint" "project_switches:D_SOD-123" (id 2) (at 113.03 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 97.79 0)
@@ -527,7 +527,7 @@
     (uuid dec3b5c8-7206-4bbc-920c-a214d3dbfe58)
     (property "Reference" "D6" (id 0) (at 113.03 104.14 0))
     (property "Value" "D" (id 1) (at 113.03 106.68 0))
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 113.03 110.49 0)
+    (property "Footprint" "project_switches:D_SOD-123" (id 2) (at 113.03 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 110.49 0)
@@ -759,22 +759,22 @@
 
   (symbol_instances
     (path "/711cbd38-d81d-4a75-9929-66e73f4ffa61"
-      (reference "D1") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D1") (unit 1) (value "D") (footprint "project_switches:D_SOD-123")
     )
     (path "/4cf67559-7fd6-4516-b112-8cf21c614315"
-      (reference "D2") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D2") (unit 1) (value "D") (footprint "project_switches:D_SOD-123")
     )
     (path "/7b1a91da-5e0a-4ce8-9681-e8f2397e822f"
-      (reference "D3") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D3") (unit 1) (value "D") (footprint "project_switches:D_SOD-123")
     )
     (path "/e8a10265-ace4-4119-bef8-5bef01da4e99"
-      (reference "D4") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D4") (unit 1) (value "D") (footprint "project_switches:D_SOD-123")
     )
     (path "/66b08f3b-38db-4463-a696-36f793332ee4"
-      (reference "D5") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D5") (unit 1) (value "D") (footprint "project_switches:D_SOD-123")
     )
     (path "/dec3b5c8-7206-4bbc-920c-a214d3dbfe58"
-      (reference "D6") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D6") (unit 1) (value "D") (footprint "project_switches:D_SOD-123")
     )
     (path "/adfc16f3-0d3a-4370-aaab-80942c4c107d"
       (reference "D7") (unit 1) (value "SK6812MINI") (footprint "project_switches:SK6812_miniE")
