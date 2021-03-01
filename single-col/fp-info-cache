@@ -1,4 +1,4 @@
-18700234775668874
+18735795567212884
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -46899,6 +46899,69 @@ MesurementPoint Square SMDPad 5mmx10mm
 0
 1
 1
+Connector_Wuerth
+Wuerth_WR-WTB_64800211622_1x02_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800211622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+2
+2
+Connector_Wuerth
+Wuerth_WR-WTB_64800311622_1x03_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800311622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+3
+3
+Connector_Wuerth
+Wuerth_WR-WTB_64800411622_1x04_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800411622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+4
+4
+Connector_Wuerth
+Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800511622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+5
+5
+Connector_Wuerth
+Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800611622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+6
+6
+Connector_Wuerth
+Wuerth_WR-WTB_64800711622_1x07_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800711622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+7
+7
+Connector_Wuerth
+Wuerth_WR-WTB_64800811622_1x08_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800811622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+8
+8
+Connector_Wuerth
+Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64800911622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+9
+9
+Connector_Wuerth
+Wuerth_WR-WTB_64801011622_1x10_P1.50mm_Vertical
+Wuerth WR-WTB series connector, 64801011622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+connector Wuerth WR-WTB vertical
+0
+10
+10
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
@@ -81682,6 +81745,69 @@ varistor SIOV
 0
 2
 2
+custom
+Diode_TH_SOD123
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+6
+2
+custom
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+customs
+cc
+
+
+0
+0
+0
+customs
+cclogo
+
+
+0
+0
+0
+customs2
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+customs2
+SolderWire-0.15sqmm_1x01_D0.5mm_OD1.5mm
+Soldered wire connection, for a single 0.15 mm² wire, basic insulation, conductor diameter 0.5mm, outer diameter 1.5mm, size source Multi-Contact FLEXI-E 0.15 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.15sqmm
+0
+2
+1
+customs2
+cclogo
+
+
+0
+0
+0
+customs2
+smd_pad
+
+
+0
+1
+1
 keyswitches
 Kailh_socket_MX
 MX-style keyswitch with Kailh socket mount
@@ -81815,6 +81941,48 @@ MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 0
+libs2
+PinHeader_1x01_P1.00mm_Vertical
+Through hole straight pin header, 1x01, 1.00mm pitch, single row
+Through hole pin header THT 1x01 1.00mm single row
+0
+1
+1
+libs2
+PinHeader_1x01_P2.54mm_Vertical
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+libs2
+YS-SK6812MINI-E
+
+
+0
+4
+4
+libs2
+YS-SK6812MINI-E_REVERSE
+
+
+0
+4
+4
+libs2
+YS-SK6812MINI-E_REVERSE_NO_EDGECUT
+
+
+0
+4
+4
+libs2
+YS-SK6812MINI-E_REVERSE_REVERSIBLE
+
+
+0
+4
+4
 project_switches
 D_SOD-123
 SOD-123
@@ -81828,6 +81996,13 @@ MX-style keyswitch with reversible Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
 4
+2
+project_switches
+PinHeader_1x02_P1.27mm_Vertical
+Through hole straight pin header, 1x02, 1.27mm pitch, single row
+Through hole pin header THT 1x02 1.27mm single row
+0
+2
 2
 project_switches
 SK6812_miniE
