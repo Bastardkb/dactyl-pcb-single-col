@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitches.pretty-master")(options "")(descr ""))
+  (lib (name "project_switches")(type "KiCad")(uri "${KIPRJMOD}/libs/quentin_lebastard")(options "")(descr ""))
 )
