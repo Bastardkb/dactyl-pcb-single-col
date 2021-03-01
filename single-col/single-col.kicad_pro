@@ -55,14 +55,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|127825200|139714400|d8e47276-ecc7-4bef-ac2b-8ef14eeb6932|1b8edf3a-742e-4068-8216-fdb887161c5d"
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -70,7 +72,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "hole_clearance": "error",
-        "hole_near_hole": "error",
+        "hole_near_hole": "ignore",
         "invalid_outline": "error",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
@@ -84,7 +86,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "error",
+        "silk_over_copper": "ignore",
         "silk_overlap": "error",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
@@ -108,11 +110,11 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.19999999999999998,
+        "min_through_hole_diameter": 0.19999999999999998,
+        "min_track_width": 0.15,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_annulus": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.19999999999999998
       },
       "track_widths": [
         0.0,
