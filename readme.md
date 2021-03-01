@@ -6,6 +6,9 @@ https://bastardkb.com/
 
 ## Features
 
+- Made for Dactyl Manuform
+- Will work with other 3d keyboards as long as the switch spacing is the same
+
 TODO
 
 ## BOM
