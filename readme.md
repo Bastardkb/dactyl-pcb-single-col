@@ -1,8 +1,14 @@
+DISCLAIMER: NOT TESTED YET ! USE AT YOUR OWN RISK.
+
+Reviews are welcome !
+
 ## Dactyl single-col PCB
 
 By Quentin LEBASTARD
 
 https://bastardkb.com/
+
+Made with Kicad nightly 5.99
 
 ## Features
 
