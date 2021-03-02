@@ -9,11 +9,13 @@ https://bastardkb.com/
 - Made for Dactyl Manuform
 - Will work with other 3d keyboards as long as the switch spacing is the same
 
-TODO
-
-## BOM
+![1](pics/1.PNG)
 
 TODO
+- SOD123 diodes
+- SK6812 mini-e leds
+- capacitors
+- 1.27mm pitch flexstrip
 
 ## License
 
