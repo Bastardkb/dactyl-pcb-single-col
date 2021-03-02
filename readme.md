@@ -14,7 +14,7 @@ https://bastardkb.com/
 - SOD123 diodes
 - SK6812 mini-e leds
 - capacitors
-- 1.27mm pitch flexstrip
+- 1.27mm pitch flexstrip or 28AWG wire
 - made for 0.6mm thick PCB
 
 ## License
