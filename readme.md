@@ -11,11 +11,11 @@ https://bastardkb.com/
 
 ![1](pics/1.PNG)
 
-TODO
 - SOD123 diodes
 - SK6812 mini-e leds
 - capacitors
 - 1.27mm pitch flexstrip
+- made for 0.6mm thick PCB
 
 ## License
 
