@@ -17,9 +17,9 @@ Made with Kicad nightly 5.99
 
 ![1](pics/1.PNG)
 
-- SOD123 diodes
+- SOD123 diodes (1206)
 - SK6812 mini-e leds
-- capacitors
+- capacitors (1206, 1uF)
 - 1.27mm pitch flexstrip or 28AWG wire
 - made for 0.6mm thick PCB
 
